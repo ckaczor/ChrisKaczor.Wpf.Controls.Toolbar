@@ -12,6 +12,7 @@
 		<Description>WPF controls that provide extra buttons for the WPF toolbar control.</Description>
 		<PackageId>ChrisKaczor.Wpf.Controls.Toolbar</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<AssemblyName>ChrisKaczor.Wpf.Controls.Toolbar</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Update="README.md">
