@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net7.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<RootNamespace>ChrisKaczor.Wpf.Controls</RootNamespace>
+		<Title>ChrisKaczor.Wpf.Controls.Toolbar</Title>
+		<Authors>Chris Kaczor</Authors>
+		<Product>ChrisKaczor.Wpf.Controls.Toolbar</Product>
+		<RepositoryUrl>https://github.com/ckaczor/ChrisKaczor.Wpf.Controls.Toolbar</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Description>WPF controls that provide extra buttons for the WPF toolbar control.</Description>
+		<PackageId>ChrisKaczor.Wpf.Controls.Toolbar</PackageId>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Update="README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+</Project>
